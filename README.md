@@ -159,11 +159,15 @@ A web-based library management project built around the **MERN stack**.
 
 <div align="center">
   <a href="https://github.com/rahul-k-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn profile and public email badge here when you have the exact URLs. -->
+  <a href="https://www.linkedin.com/in/rahul-k-a52409353/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahulk0777111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
 <div align="center">
   <sub>Thanks for stopping by! Feel free to explore my repositories and connect. ✨</sub>
 </div>
