@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/rahul-k-07/rahul-k-07/main/assets/pixel-dev-banner.png" alt="Pixel-art developer workspace" width="100%" />
+  <img src="./assets/pixel-dev-banner.png" alt="Pixel-art developer workspace" width="100%" />
 
   <h1>Hey, I'm Rahul K 👋</h1>
   <h3>AI &amp; ML Engineer | Software Developer</h3>
@@ -39,16 +39,12 @@ I'm a B.Tech graduate in **Artificial Intelligence & Machine Learning**, interes
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahul-k-07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahul's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-k-07&theme=tokyonight&hide_border=true" alt="Rahul's GitHub contribution streak" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=rahul-k-07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahul's GitHub statistics" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=rahul-k-07&theme=tokyonight&hide_border=true" alt="Rahul's GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img width="75%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahul-k-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-k-07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph (may take a moment to load)" />
+  <img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahul-k-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 ---
